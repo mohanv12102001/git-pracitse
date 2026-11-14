@@ -1,3 +1,3 @@
 #git course
 
-github 2.1
+github 2.2
