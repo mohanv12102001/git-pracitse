@@ -1,8 +1,7 @@
 #git course
 
 github 2.2
+This is sample course  i need learn git and github
 
-
-
-
-variying comments
+mainly gor branching
+git version2.1
