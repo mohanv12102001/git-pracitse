@@ -15,3 +15,8 @@ commit for revert
 
 commit for revert -com 4
 git commit 1
+
+
+
+editing for stash
+mainly edited for git stash 
