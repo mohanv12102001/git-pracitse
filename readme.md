@@ -20,3 +20,5 @@ git commit 1
 
 editing for stash
 mainly edited for git stash 
+
+edited for git memoru
