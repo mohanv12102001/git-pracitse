@@ -5,6 +5,7 @@ This is sample course  i need learn git and github
 
 mainly gor branching
 git version2.1
+<<<<<<< HEAD
 
 git commit 1
 git commit 2
@@ -20,3 +21,6 @@ git commit 1
 
 editing for stash
 mainly edited for git stash 
+=======
+git verson 4.3
+>>>>>>> da72016 (eon commit)
